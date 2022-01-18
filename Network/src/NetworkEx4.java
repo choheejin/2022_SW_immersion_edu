@@ -5,7 +5,7 @@ public class NetworkEx4 {
 	public static void  main(String args[]) {
 		URL url = null;
 		BufferedReader input = null;
-		String address = "http://www.codechobo.com/sample/hello.html";
+		String address = "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=react";
 		String line = "";
 
 		try {
